@@ -1,2 +1,3 @@
 # newproject
-This is my project repositiory
+This is my project git repositiory
+Author - divya yerkewar
